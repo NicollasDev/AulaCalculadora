@@ -1,0 +1,13 @@
+C:\Users\NdL\Desktop\Aula09 Calculadora\bin\Debug\netcoreapp3.1\Aula09 Calculadora.exe
+C:\Users\NdL\Desktop\Aula09 Calculadora\bin\Debug\netcoreapp3.1\Aula09 Calculadora.deps.json
+C:\Users\NdL\Desktop\Aula09 Calculadora\bin\Debug\netcoreapp3.1\Aula09 Calculadora.runtimeconfig.json
+C:\Users\NdL\Desktop\Aula09 Calculadora\bin\Debug\netcoreapp3.1\Aula09 Calculadora.runtimeconfig.dev.json
+C:\Users\NdL\Desktop\Aula09 Calculadora\bin\Debug\netcoreapp3.1\Aula09 Calculadora.dll
+C:\Users\NdL\Desktop\Aula09 Calculadora\bin\Debug\netcoreapp3.1\Aula09 Calculadora.pdb
+C:\Users\NdL\Desktop\Aula09 Calculadora\obj\Debug\netcoreapp3.1\Aula09 Calculadora.csprojAssemblyReference.cache
+C:\Users\NdL\Desktop\Aula09 Calculadora\obj\Debug\netcoreapp3.1\Aula09 Calculadora.AssemblyInfoInputs.cache
+C:\Users\NdL\Desktop\Aula09 Calculadora\obj\Debug\netcoreapp3.1\Aula09 Calculadora.AssemblyInfo.cs
+C:\Users\NdL\Desktop\Aula09 Calculadora\obj\Debug\netcoreapp3.1\Aula09 Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\NdL\Desktop\Aula09 Calculadora\obj\Debug\netcoreapp3.1\Aula09 Calculadora.dll
+C:\Users\NdL\Desktop\Aula09 Calculadora\obj\Debug\netcoreapp3.1\Aula09 Calculadora.pdb
+C:\Users\NdL\Desktop\Aula09 Calculadora\obj\Debug\netcoreapp3.1\Aula09 Calculadora.genruntimeconfig.cache
